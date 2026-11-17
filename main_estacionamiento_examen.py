@@ -14,6 +14,7 @@ def main():
     estacionamiento = Estacionamiento(horas)
     estacionamiento.mostrarRecibo()
 
-
+    
 if __name__ == "__main__":
     main()
+

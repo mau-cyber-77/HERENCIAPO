@@ -1,0 +1,7 @@
+(.venv) PS C:\Users\196211-3\Documents\HERENCIAPO> python main_calculadora.py
+Ingrese el primer número: 20
+Ingrese el segundo número: 8
+Operación de Suma:
+Resultado de la operación: 28
+Operación de Resta:
+Resultado de la operación: 12
